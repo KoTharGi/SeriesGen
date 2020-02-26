@@ -1,0 +1,38 @@
+{
+  "allmovie" : [
+{
+  "title" : "On Going TV Series",
+  "cover" : "https://1.bp.blogspot.com/-9LvyzUX5IUc/XlYiMBLynrI/AAAAAAAAErI/-ZBbeVu7Y9YhY3bFYW0J78AoGCXbUe6DwCEwYBhgL/s600/2020.png",
+  "link" : "https://raw.githubusercontent.com/BittchPggglease/KPopularSeries/master/",
+  "tag" : "On Going"
+ }
+,
+  {
+  "title" : "Korea TV Series",
+  "cover" : "https://1.bp.blogspot.com/-A6XLlf0p6kI/XlYiN1Rd2fI/AAAAAAAAErQ/tzryZsjQvPMQ2lP91ijTujMqEEV2dKeDgCEwYBhgL/s600/korea.png",
+  "link" : "https://raw.githubusercontent.com/BittchPleasrrre/KPopularSeries/master/",
+  "tag" : "korea"
+ }
+  ,
+   {
+  "title" : "China TV Series",
+  "cover" : "https://1.bp.blogspot.com/-gyQqi8LMy9k/XlYiMn4SPUI/AAAAAAAAErM/t8B74ZR4vRMYmPNHWGHyICfP-bVoAGmngCEwYBhgL/s600/china.png",
+  "link" : "https://raw.githubusercontent.com/BittchPlease/KPopularSeries/master/",
+  "tag" : "china"
+  }
+,
+  {
+  "title" : "Thai TV Series",
+  "cover" : "https://1.bp.blogspot.com/-_zIa2MQcFNM/XlYiOcIHcCI/AAAAAAAAErU/296tRPZ560MQkyFaCd1EzsAmoayLJSRBgCEwYBhgL/s600/thai.png",
+  "link" : "https://raw.githubusercontent.com/BittchPleasrrre/KPopularSeries/master/",
+  "tag" : "thai"
+ }
+  ,
+   {
+  "title" : "Completed TV Series",
+  "cover" : "https://1.bp.blogspot.com/-mtRlgOiPXVA/XlYiNKf6YsI/AAAAAAAAErQ/LrPgZQsrQ4ANQ35eakAJj-bw0apaCsMeACEwYBhgL/s600/comp.png",
+  "link" : "https://raw.githubusercontent.com/BittchPlease/KPopularSeries/master/",
+  "tag" : "completed"
+  }
+]
+}
